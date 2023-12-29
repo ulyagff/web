@@ -1,0 +1,33 @@
+{
+  "name": "drift",
+  "version": "1.4.4",
+  "description": "Easily add \"zoom on hover\" functionality to your site's images. Lightweight, no-dependency JavaScript.",
+  "main": [
+    "dist/Drift.min.js",
+    "dist/drift-basic.css"
+  ],
+  "authors": [],
+  "license": "BSD-2",
+  "keywords": [
+    "javascript",
+    "zoom",
+    "hover",
+    "image",
+    "images"
+  ],
+  "homepage": "https://github.com/paulstraw/drift",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    ".github",
+    "node_modules",
+    "src",
+    "test",
+    "CONTRIBUTING.md",
+    "index.html",
+    "config",
+    "package.json",
+    "postcss.config.js",
+    "webpack.config.js"
+  ]
+}
